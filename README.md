@@ -5,7 +5,7 @@
 ### About Me 
 
 - I'm a self taught professional iOS Developer and love to share my knowledge by open source projects.
-
+- Always open to learn new things. 🌱
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -23,10 +23,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ANSCoder&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
 </p>
 
-**My work:**
+## My work
 - Blogging at [Medium](https://medium.com/@nimjea) ***(1.1K+ followers)***
 - Check my [Stackoverflow](https://stackoverflow.com/users/4803556/anand-nimje) ***(6K reputations)***
 
+
+## Languages and Tools I use
+- Xcode 🚀
+- Objective - C
+- Swift 
+- SwiftUI
+- RxSwift
+- Postman
 
 ## Connect with me
 <p align="left">
