@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anscoder&label=Profile%20views&color=0e75b6&style=flat" alt="anscoder" /> </p>
 
+### About Me 
+
+- I'm a self taught professional iOS Developer and love to share my knowledge by open source projects.
+
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
