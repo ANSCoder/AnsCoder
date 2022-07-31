@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANSCoder&label=Profile%20views&color=0e75b6&style=flat" alt="ANSCoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anscoder&label=Profile%20views&color=0e75b6&style=flat" alt="anscoder" /> </p>
 
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
